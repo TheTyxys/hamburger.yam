@@ -42,7 +42,7 @@ userInputService.InputEnded:Connect(function(key)
     end
 end)
 
-menu.outline.outline.main.text.Text = "hamburger"
+menu.outline.outline.main.text.Text = "hamburger.yam"
 
 function library:notify(text)
     if playing then return end
